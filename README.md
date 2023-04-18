@@ -1,4 +1,4 @@
-# boosttest-ios
+# Boost Test - iOS 
 
 A test that requires the dev to fetch, read and alter data in json form.
 Simple list of user information to be displayed.
